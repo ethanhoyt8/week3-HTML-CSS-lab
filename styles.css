@@ -1,0 +1,51 @@
+body > h2, h3, h4, h5, h6, p {
+    color:maroon
+}
+
+div > p {
+    color:gold;
+}
+
+div > p {
+    color:gold
+}
+
+h1 {
+    color:gold
+}
+
+img {
+    height: 300px;
+}
+
+div {
+    height: 100px;
+    width:100px;
+    background-color:maroon;
+    border: 5px black solid;
+    margin: 10px;
+    text-align: center;
+}
+
+span {
+    background-color: maroon;
+}
+
+button {
+    background-color: gold;
+}
+
+input {
+    background-color:whitesmoke
+}
+
+button:hover {
+    background-color:maroon
+}
+
+body {
+    background-image: url('https://www.si.com/.image/t_share/MTgwNTk4MDk5MjM0NzkyNTM2/kyler-murray.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
